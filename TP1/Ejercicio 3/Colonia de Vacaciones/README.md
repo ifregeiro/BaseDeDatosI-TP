@@ -1,5 +1,5 @@
 
-# Base de Datos I - Trabajos Práctico N°3
+# Base de Datos I - Trabajo Práctico N°1
   
 *Trabajo Práctico N°3 - Colonia De Vacaciones* 
 ---
