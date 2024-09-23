@@ -1,6 +1,6 @@
 # Base de Datos I - Trabajo Práctico N°1
   
-*Trabajo Práctico N°1 - Ejercicio 3* 
+*Ejercicio 3* 
 ---
 Grupo compuesto por: Fregeiro Ignacio,
                      Sola Lucía,
