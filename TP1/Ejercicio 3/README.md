@@ -1,4 +1,4 @@
-# Base de Datos I - Trabajos Práctico N°1
+# Base de Datos I - Trabajo Práctico N°1
   
 *Trabajo Práctico N°1 - Ejercicio 3* 
 ---
